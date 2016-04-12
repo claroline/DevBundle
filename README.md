@@ -1,5 +1,10 @@
 # DevBundle
 
+WARNING
+-------
+
+**DEVELOPMENT HAS MOVED TO [claroline/Distribution](http://github.com/claroline/Distribution). THIS REPOSITORY IS NO LONGER MAINTAINED.**
+
 Bundle gathering tools, libraries and commands useful for Claroline
 development.
 
